@@ -1,0 +1,23 @@
+[
+    {"id": "1","kind": "gömlek", "body": "m", "price": 50, "color": "kırmızı", "category": "üst giyim"},
+    {"id": "2","kind": "gömlek", "body": "m", "price": 500, "color": "kırmızı", "category": "üst giyim"},
+    {"id": "3","kind": "gömlek", "body": "m", "price": 90, "color": "kırmızı", "category": "üst giyim"},
+    {"id": "4","kind": "gömlek", "body": "m", "price": 40, "color": "beyaz", "category": "üst giyim"},
+    {"id": "5","kind": "gömlek", "body": "s", "price": 60, "color": "beyaz", "category": "üst giyim"},
+    {"id": "6","kind": "pantalon", "body": "s", "price": 80, "color": "sarı", "category": "alt giyim"},
+    {"id": "7","kind": "bluz", "body": "s", "price": 60, "color": "siyah", "category": "üst giyim"},
+    {"id": "8","kind": "bluz", "body": "m", "price": 60, "color": "kırmızı", "category": "üst giyim"},
+    {"id": "9","kind": "crop", "body": "m", "price": 60, "color": "bordo", "category": "üst giyim"},
+    {"id": "20","kind": "elbise", "body": "s", "price": 60, "color": "mor", "category": "elbise"},
+    {"id": "11","kind": "gömlek", "body": "m", "price": 50, "color": "kırmızı", "category": "üst giyim"},
+    {"id": "12","kind": "jean", "body": "s", "price": 70, "color": "lacivert", "category": "alt giyim"},
+    {"id": "13","kind": "elbise", "body": "m", "price": 120, "color": "beyaz", "category": "elbise"},
+    {"id": "14","kind": "kazak", "body": "m", "price": 90, "color": "mavi", "category": "üst giyim"},
+    {"id": "15","kind": "şort", "body": "s", "price": 40, "color": "sarı", "category": "alt giyim"},
+    {"id": "16","kind": "bluz", "body": "m", "price": 60, "color": "pembe", "category": "üst giyim"},
+    {"id": "17","kind": "pantolon", "body": "l", "price": 80, "color": "kahverengi", "category": "alt giyim"},
+    {"id": "18","kind": "atkı", "body": "r", "price": 80, "color": "beyaz", "category": "alt giyim"},
+    {"id": "19","kind": "atkı", "body": "r", "price": 80, "color": "kırmızı", "category": "alt giyim"},
+    {"id": "20","kind": "fular", "body": "r", "price": 80, "color": "siyah", "category": "alt giyim"},
+    {"id": "21","kind": "fular", "body": "r", "price": 80, "color": "kırmızı", "category": "alt giyim"}
+]

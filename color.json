@@ -1,0 +1,28 @@
+{
+  "colors": {
+    "siyah": "siyah",
+    "beyaz": "beyaz",
+    "kırmızı": "kırmızı",
+    "mavi": "mavi",
+    "yeşil": "yeşil",
+    "sarı": "sarı",
+    "turuncu": "turuncu",
+    "mor": "mor",
+    "pembe": "pembe",
+    "gri": "gri",
+    "kahverengi": "kahverengi",
+    "bej": "bej",
+    "haki": "haki",
+    "ekru": "ekru",
+    "lacivert": "lacivert",
+    "bordo": "bordo",
+    "fuşya": "fuşya",
+    "mercan": "mercan",
+    "gümüş": "gümüş",
+    "altın": "altın",
+    "bronz": "bronz",
+    "bakır": "bakır",
+    "metalik": "metalik",
+    "pastel": "pastel"
+  }
+}
